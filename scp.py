@@ -57,3 +57,4 @@ if __name__ == "__main__":
             
             scp_put(local_file, remote_file_path, file_name)
             print('project ' + sys.argv[i] + ' is ending')
+            
